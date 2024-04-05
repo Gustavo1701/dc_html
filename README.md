@@ -1,5 +1,5 @@
 # Comandos básicos GIT
-![Git](dc_html/assets/github.png)
+![Git](assets/img/github.png)
 ## 1 - Clonando o projeto
 
 ### 1.1 - Criar o repositorio no GitHub
